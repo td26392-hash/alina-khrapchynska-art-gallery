@@ -1,0 +1,10 @@
+ALINA KH RAPCHYNSKA — WEBGALERIE
+
+1. Öffne https://app.netlify.com/drop im Browser.
+2. Melde dich mit einem kostenlosen Konto an.
+3. Lade den entpackten Ordner alina_gallery_site hoch (nicht nur index.html).
+4. Teile die erzeugte URL für den QR-Code.
+
+Preise: Im HTML ist SHOW_PRICES = false. Für spätere Anzeige auf true ändern. Galeriepreise sind 80% der Hotelpreise und stehen in artworks.json.
+
+Hinweis: Bei zwei Werken fehlen Bilder in der DOCX-Quelldatei.
