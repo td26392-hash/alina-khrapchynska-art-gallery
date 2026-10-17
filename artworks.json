@@ -7,7 +7,7 @@
     "year": "2023",
     "hotelPrice": 4200,
     "galleryPrice": 3360,
-    "image": "images/01.webp"
+    "image": "01.webp"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "year": "2022",
     "hotelPrice": 800,
     "galleryPrice": 640,
-    "image": "images/02.webp"
+    "image": "02.webp"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "year": "2023",
     "hotelPrice": 3000,
     "galleryPrice": 2400,
-    "image": "images/03.webp"
+    "image": "03.webp"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "year": "2023",
     "hotelPrice": 2000,
     "galleryPrice": 1600,
-    "image": "images/04.webp"
+    "image": "04.webp"
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "year": "2019",
     "hotelPrice": 2400,
     "galleryPrice": 1920,
-    "image": "images/05.webp"
+    "image": "05.webp"
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "year": "2023",
     "hotelPrice": 1800,
     "galleryPrice": 1440,
-    "image": "images/06.webp"
+    "image": "06.webp"
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     "year": "2023",
     "hotelPrice": 3000,
     "galleryPrice": 2400,
-    "image": "images/07.webp"
+    "image": "07.webp"
   },
   {
     "id": 8,
@@ -77,7 +77,7 @@
     "year": "2022",
     "hotelPrice": 2200,
     "galleryPrice": 1760,
-    "image": "images/08.webp"
+    "image": "08.webp"
   },
   {
     "id": 9,
@@ -87,7 +87,7 @@
     "year": "2022",
     "hotelPrice": 2000,
     "galleryPrice": 1600,
-    "image": "images/09.webp"
+    "image": "09.webp"
   },
   {
     "id": 10,
@@ -97,7 +97,7 @@
     "year": "2022",
     "hotelPrice": 2000,
     "galleryPrice": 1600,
-    "image": "images/10.webp"
+    "image": "10.webp"
   },
   {
     "id": 11,
@@ -107,7 +107,7 @@
     "year": "2026",
     "hotelPrice": 800,
     "galleryPrice": 640,
-    "image": "images/11.webp"
+    "image": "11.webp"
   },
   {
     "id": 12,
@@ -117,7 +117,7 @@
     "year": "2022",
     "hotelPrice": 1600,
     "galleryPrice": 1280,
-    "image": "images/12.webp"
+    "image": "12.webp"
   },
   {
     "id": 13,
@@ -127,7 +127,7 @@
     "year": "2022",
     "hotelPrice": 1600,
     "galleryPrice": 1280,
-    "image": "images/13.webp"
+    "image": "13.webp"
   },
   {
     "id": 14,
@@ -137,7 +137,7 @@
     "year": "2022",
     "hotelPrice": 1800,
     "galleryPrice": 1440,
-    "image": "images/14.webp"
+    "image": "14.webp"
   },
   {
     "id": 15,
@@ -147,7 +147,7 @@
     "year": "2022",
     "hotelPrice": 2500,
     "galleryPrice": 2000,
-    "image": "images/15.webp"
+    "image": "15.webp"
   },
   {
     "id": 16,
@@ -157,7 +157,7 @@
     "year": "2022",
     "hotelPrice": 1800,
     "galleryPrice": 1440,
-    "image": "images/16.webp"
+    "image": "16.webp"
   },
   {
     "id": 17,
@@ -167,7 +167,7 @@
     "year": "2021",
     "hotelPrice": 2200,
     "galleryPrice": 1760,
-    "image": "images/17.webp"
+    "image": "17.webp"
   },
   {
     "id": 18,
@@ -177,7 +177,7 @@
     "year": "2021",
     "hotelPrice": 3000,
     "galleryPrice": 2400,
-    "image": "images/18.webp"
+    "image": "18.webp"
   },
   {
     "id": 19,
@@ -187,7 +187,7 @@
     "year": "2020",
     "hotelPrice": 2000,
     "galleryPrice": 1600,
-    "image": "images/19.webp"
+    "image": "19.webp"
   },
   {
     "id": 20,
@@ -197,7 +197,7 @@
     "year": "2020",
     "hotelPrice": 1500,
     "galleryPrice": 1200,
-    "image": "images/20.webp"
+    "image": "20.webp"
   },
   {
     "id": 21,
@@ -207,7 +207,7 @@
     "year": "2019",
     "hotelPrice": 1500,
     "galleryPrice": 1200,
-    "image": "images/21.webp"
+    "image": "21.webp"
   },
   {
     "id": 22,
@@ -217,7 +217,7 @@
     "year": "2021",
     "hotelPrice": 1500,
     "galleryPrice": 1200,
-    "image": "images/22.webp"
+    "image": "22.webp"
   },
   {
     "id": 23,
@@ -227,7 +227,7 @@
     "year": "2022",
     "hotelPrice": 550,
     "galleryPrice": 440,
-    "image": "images/23.webp"
+    "image": "23.webp"
   },
   {
     "id": 24,
@@ -237,7 +237,7 @@
     "year": "2023",
     "hotelPrice": 550,
     "galleryPrice": 440,
-    "image": "images/24.webp"
+    "image": "24.webp"
   },
   {
     "id": 25,
@@ -247,7 +247,7 @@
     "year": "2023",
     "hotelPrice": 550,
     "galleryPrice": 440,
-    "image": "images/25.webp"
+    "image": "25.webp"
   },
   {
     "id": 26,
@@ -257,7 +257,7 @@
     "year": "2023",
     "hotelPrice": 550,
     "galleryPrice": 440,
-    "image": "images/26.webp"
+    "image": "26.webp"
   },
   {
     "id": 27,
@@ -267,7 +267,7 @@
     "year": "2023",
     "hotelPrice": 550,
     "galleryPrice": 440,
-    "image": "images/27.webp"
+    "image": "27.webp"
   },
   {
     "id": 28,
@@ -277,7 +277,7 @@
     "year": "2023",
     "hotelPrice": 500,
     "galleryPrice": 400,
-    "image": "images/28.webp"
+    "image": "28.webp"
   },
   {
     "id": 29,
@@ -287,7 +287,7 @@
     "year": "2021",
     "hotelPrice": 6000,
     "galleryPrice": 4800,
-    "image": "images/29.webp"
+    "image": "29.webp"
   },
   {
     "id": 30,
@@ -297,7 +297,7 @@
     "year": "2023",
     "hotelPrice": 550,
     "galleryPrice": 440,
-    "image": "images/30.webp"
+    "image": "30.webp"
   },
   {
     "id": 31,
@@ -307,7 +307,7 @@
     "year": "2023",
     "hotelPrice": 550,
     "galleryPrice": 440,
-    "image": "images/31.webp"
+    "image": "31.webp"
   },
   {
     "id": 32,
@@ -317,7 +317,7 @@
     "year": "2023",
     "hotelPrice": 550,
     "galleryPrice": 440,
-    "image": "images/32.webp"
+    "image": "32.webp"
   },
   {
     "id": 33,
@@ -327,7 +327,7 @@
     "year": "2024",
     "hotelPrice": 3000,
     "galleryPrice": 2400,
-    "image": "images/33.webp"
+    "image": "33.webp"
   },
   {
     "id": 34,
@@ -337,7 +337,7 @@
     "year": "2023",
     "hotelPrice": 600,
     "galleryPrice": 480,
-    "image": "images/34.webp"
+    "image": "34.webp"
   },
   {
     "id": 35,
@@ -347,7 +347,7 @@
     "year": "2023",
     "hotelPrice": 800,
     "galleryPrice": 640,
-    "image": "images/35.webp"
+    "image": "35.webp"
   },
   {
     "id": 36,
@@ -357,7 +357,7 @@
     "year": "2023",
     "hotelPrice": 800,
     "galleryPrice": 640,
-    "image": "images/36.webp"
+    "image": "36.webp"
   },
   {
     "id": 37,
@@ -367,7 +367,7 @@
     "year": "2023",
     "hotelPrice": 600,
     "galleryPrice": 480,
-    "image": "images/37.webp"
+    "image": "37.webp"
   },
   {
     "id": 38,
@@ -377,7 +377,7 @@
     "year": "2023",
     "hotelPrice": 3000,
     "galleryPrice": 2400,
-    "image": "images/38.webp"
+    "image": "38.webp"
   },
   {
     "id": 39,
@@ -387,7 +387,7 @@
     "year": "2023",
     "hotelPrice": 2500,
     "galleryPrice": 2000,
-    "image": "images/39.webp"
+    "image": "39.webp"
   },
   {
     "id": 40,
@@ -397,7 +397,7 @@
     "year": "2023",
     "hotelPrice": 600,
     "galleryPrice": 480,
-    "image": "images/40.webp"
+    "image": "40.webp"
   },
   {
     "id": 41,
@@ -407,7 +407,7 @@
     "year": "2023",
     "hotelPrice": 600,
     "galleryPrice": 480,
-    "image": "images/41.webp"
+    "image": "41.webp"
   },
   {
     "id": 42,
@@ -427,7 +427,7 @@
     "year": "2020",
     "hotelPrice": 2400,
     "galleryPrice": 1920,
-    "image": "images/43.webp"
+    "image": "43.webp"
   },
   {
     "id": 44,
@@ -437,7 +437,7 @@
     "year": "2017",
     "hotelPrice": 1000,
     "galleryPrice": 800,
-    "image": "images/44.webp"
+    "image": "44.webp"
   },
   {
     "id": 45,
@@ -447,7 +447,7 @@
     "year": "2019",
     "hotelPrice": 2400,
     "galleryPrice": 1920,
-    "image": "images/45.webp"
+    "image": "45.webp"
   },
   {
     "id": 46,
@@ -467,7 +467,7 @@
     "year": "2024",
     "hotelPrice": 3200,
     "galleryPrice": 2560,
-    "image": "images/47.webp"
+    "image": "47.webp"
   },
   {
     "id": 48,
@@ -477,7 +477,7 @@
     "year": "2024",
     "hotelPrice": 6500,
     "galleryPrice": 5200,
-    "image": "images/48.webp"
+    "image": "48.webp"
   },
   {
     "id": 49,
@@ -487,7 +487,7 @@
     "year": "2024",
     "hotelPrice": 2400,
     "galleryPrice": 1920,
-    "image": "images/49.webp"
+    "image": "49.webp"
   },
   {
     "id": 50,
@@ -497,7 +497,7 @@
     "year": "2024",
     "hotelPrice": 4700,
     "galleryPrice": 3760,
-    "image": "images/50.webp"
+    "image": "50.webp"
   },
   {
     "id": 51,
@@ -507,7 +507,7 @@
     "year": "2024",
     "hotelPrice": 3000,
     "galleryPrice": 2400,
-    "image": "images/51.webp"
+    "image": "51.webp"
   },
   {
     "id": 52,
@@ -517,7 +517,7 @@
     "year": "2026",
     "hotelPrice": 1500,
     "galleryPrice": 1200,
-    "image": "images/52.webp"
+    "image": "52.webp"
   },
   {
     "id": 53,
@@ -527,7 +527,7 @@
     "year": "2026",
     "hotelPrice": 1500,
     "galleryPrice": 1200,
-    "image": "images/53.webp"
+    "image": "53.webp"
   },
   {
     "id": 54,
@@ -537,7 +537,7 @@
     "year": "2026",
     "hotelPrice": 3800,
     "galleryPrice": 3040,
-    "image": "images/54.webp"
+    "image": "54.webp"
   },
   {
     "id": 55,
@@ -547,7 +547,7 @@
     "year": "2026",
     "hotelPrice": 1200,
     "galleryPrice": 960,
-    "image": "images/55.webp"
+    "image": "55.webp"
   },
   {
     "id": 56,
@@ -557,7 +557,7 @@
     "year": "2026",
     "hotelPrice": 800,
     "galleryPrice": 640,
-    "image": "images/56.webp"
+    "image": "56.webp"
   },
   {
     "id": 57,
@@ -567,6 +567,6 @@
     "year": "2026",
     "hotelPrice": 600,
     "galleryPrice": 480,
-    "image": "images/57.webp"
+    "image": "57.webp"
   }
 ]
