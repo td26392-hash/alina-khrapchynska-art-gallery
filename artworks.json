@@ -410,15 +410,14 @@
     "image": "41.webp"
   },
   {
-    "id": 42,
-    "title": "Chrom",
-    "technique": "Öl und Acryl auf Leinwand · Diptychon",
-    "dimensions": "2 × 100 × 120",
-    "year": "2024",
-    "hotelPrice": 4000,
-    "galleryPrice": 4000,
-    "singlePrice": 2000,
-    "image": "chrom.webp"
+  "id": 42,
+  "title": "Chrom I",
+  "technique": "Öl und Acryl auf Leinwand",
+  "dimensions": "100 × 120",
+  "year": "2024",
+  "hotelPrice": 2000,
+  "galleryPrice": 2000,
+  "image": "chrom-1.webp"
   },
   {
     "id": 43,
@@ -559,5 +558,44 @@
     "hotelPrice": 600,
     "galleryPrice": 480,
     "image": "57.webp"
-}
+},  {
+    "id": 58,
+    "title": "Chrom II",
+    "technique": "Öl und Acryl auf Leinwand",
+    "dimensions": "100 × 120",
+    "year": "2024",
+    "hotelPrice": 2000,
+    "galleryPrice": 2000,
+    "image": "chrom-2.webp"
+  },
+  {
+    "id": 59,
+    "title": "Stille Eleganz",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "30 × 90",
+    "year": "2024",
+    "hotelPrice": 800,
+    "galleryPrice": 800,
+    "image": "stille-eleganz.webp"
+  },
+  {
+    "id": 60,
+    "title": "Granatapfel",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "Ø 30",
+    "year": "2026",
+    "hotelPrice": 450,
+    "galleryPrice": 450,
+    "image": "granatapfel.webp"
+  },
+  {
+    "id": 61,
+    "title": "Koi-Teich",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "70 × 90",
+    "year": "2024",
+    "hotelPrice": 1700,
+    "galleryPrice": 1700,
+    "image": "koi-teich.webp"
+  }
 ]
