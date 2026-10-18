@@ -410,6 +410,17 @@
     "image": "41.webp"
   },
   {
+    "id": 42,
+    "title": "Chrom",
+    "technique": "Öl und Acryl auf Leinwand · Diptychon",
+    "dimensions": "2 × 100 × 120",
+    "year": "2024",
+    "hotelPrice": 4000,
+    "galleryPrice": 4000,
+    "singlePrice": 2000,
+    "image": "chrom.webp"
+  },
+  {
     "id": 43,
     "title": "Ein Platz unter der Sonne",
     "technique": "Öl auf Leinwand",
