@@ -410,16 +410,6 @@
     "image": "41.webp"
   },
   {
-    "id": 42,
-    "title": "Am Mittag",
-    "technique": "Öl auf Leinwand",
-    "dimensions": "60 × 20",
-    "year": "2023",
-    "hotelPrice": 600,
-    "galleryPrice": 480,
-    "image": "42.webp"
-  },
-  {
     "id": 43,
     "title": "Ein Platz unter der Sonne",
     "technique": "Öl auf Leinwand",
@@ -448,16 +438,6 @@
     "hotelPrice": 2400,
     "galleryPrice": 1920,
     "image": "45.webp"
-  },
-  {
-    "id": 46,
-    "title": "Marina",
-    "technique": "Öl auf Leinwand",
-    "dimensions": "60 × 20",
-    "year": "2023",
-    "hotelPrice": 600,
-    "galleryPrice": 480,
-    "image": "46.webp"
   },
   {
     "id": 47,
