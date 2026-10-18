@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "title": "Der Kampf um sie",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "160 × 80",
+    "year": "2023",
+    "hotelPrice": 4200,
+    "galleryPrice": 3200,
+    "image": "01.webp"
+  },
+  {
+    "id": 2,
+    "title": "Boote",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "40 × 60",
+    "year": "2022",
+    "hotelPrice": 800,
+    "galleryPrice": 600,
+    "image": "02.webp"
+  },
+  {
+    "id": 3,
+    "title": "Nach dem Regen",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "100 × 110",
+    "year": "2023",
+    "hotelPrice": 3000,
+    "galleryPrice": 2400,
+    "image": "03.webp"
+  },
+  {
+    "id": 4,
+    "title": "Zum Herzen von Brügge",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "80 × 100",
+    "year": "2023",
+    "hotelPrice": 2000,
+    "galleryPrice": 1600,
+    "image": "04.webp"
+  },
+  {
+    "id": 5,
+    "title": "Italienischer Frühling",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "100 × 80",
+    "year": "2019",
+    "hotelPrice": 2400,
+    "galleryPrice": 2200,
+    "image": "05.webp"
+  },
+  {
+    "id": 6,
+    "title": "Eisdiele Kavala",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "80 × 60",
+    "year": "2023",
+    "hotelPrice": 1800,
+    "galleryPrice": 1440,
+    "image": "06.webp"
+  },
+  {
+    "id": 7,
+    "title": "Erwartung",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "80 × 120",
+    "year": "2023",
+    "hotelPrice": 3000,
+    "galleryPrice": 2250,
+    "image": "07.webp"
+  },
+  {
+    "id": 8,
+    "title": "Golden Hour",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "70 × 90",
+    "year": "2022",
+    "hotelPrice": 2200,
+    "galleryPrice": 1980,
+    "image": "08.webp"
+  },
+  {
+    "id": 9,
+    "title": "In Sicherheit",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "60 × 80",
+    "year": "2022",
+    "hotelPrice": 2000,
+    "galleryPrice": 1900,
+    "image": "09.webp"
+  },
+  {
+    "id": 10,
+    "title": "Gänse",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "73 × 116",
+    "year": "2022",
+    "hotelPrice": 2000,
+    "galleryPrice": 1900,
+    "image": "10.webp"
+  },
+  {
+    "id": 11,
+    "title": "Finsternis",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "30 × 60",
+    "year": "2026",
+    "hotelPrice": 800,
+    "galleryPrice": 700,
+    "image": "11.webp"
+  },
+  {
+    "id": 12,
+    "title": "Überseereisen",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "60 × 80",
+    "year": "2022",
+    "hotelPrice": 1600,
+    "galleryPrice": 1280,
+    "image": "12.webp"
+  },
+  {
+    "id": 13,
+    "title": "Schwertlilien",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "70 × 80",
+    "year": "2022",
+    "hotelPrice": 1600,
+    "galleryPrice": 1560,
+    "image": "13.webp"
+  },
+  {
+    "id": 14,
+    "title": "Ein märchenhafter Abend",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "70 × 80",
+    "year": "2022",
+    "hotelPrice": 1800,
+    "galleryPrice": 1620,
+    "image": "14.webp"
+  },
+  {
+    "id": 15,
+    "title": "Ankara. Basar",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "120 × 90",
+    "year": "2022",
+    "hotelPrice": 2500,
+    "galleryPrice": 2280,
+    "image": "15.webp"
+  },
+  {
+    "id": 16,
+    "title": "Marina",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "70 × 80",
+    "year": "2022",
+    "hotelPrice": 1800,
+    "galleryPrice": 1620,
+    "image": "16.webp"
+  },
+  {
+    "id": 17,
+    "title": "Büffel",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "100 × 70",
+    "year": "2021",
+    "hotelPrice": 2200,
+    "galleryPrice": 1760,
+    "image": "17.webp"
+  },
+  {
+    "id": 18,
+    "title": "Göreme",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "100 × 110",
+    "year": "2021",
+    "hotelPrice": 3000,
+    "galleryPrice": 2650,
+    "image": "18.webp"
+  },
+  {
+    "id": 19,
+    "title": "Treffen unter einem Regenschirm",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "80 × 100",
+    "year": "2020",
+    "hotelPrice": 2000,
+    "galleryPrice": 1650,
+    "image": "19.webp"
+  },
+  {
+    "id": 20,
+    "title": "Ruhiges Wasser. Amsterdam",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "60 × 70",
+    "year": "2020",
+    "hotelPrice": 1500,
+    "galleryPrice": 1200,
+    "image": "20.webp"
+  },
+  {
+    "id": 21,
+    "title": "Sommer in Bulgarien",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "70 × 80",
+    "year": "2019",
+    "hotelPrice": 1500,
+    "galleryPrice": 1200,
+    "image": "21.webp"
+  },
+  {
+    "id": 22,
+    "title": "Sonniger Rand",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "60 × 80",
+    "year": "2021",
+    "hotelPrice": 1500,
+    "galleryPrice": 1200,
+    "image": "22.webp"
+  },
+  {
+    "id": 23,
+    "title": "Mädchengespräche",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "25 × 25",
+    "year": "2022",
+    "hotelPrice": 550,
+    "galleryPrice": 450,
+    "image": "23.webp"
+  },
+  {
+    "id": 24,
+    "title": "Neo Peramos",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "25 × 25",
+    "year": "2023",
+    "hotelPrice": 550,
+    "galleryPrice": 450,
+    "image": "24.webp"
+  },
+  {
+    "id": 25,
+    "title": "Seebrücke",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "25 × 25",
+    "year": "2023",
+    "hotelPrice": 550,
+    "galleryPrice": 450,
+    "image": "25.webp"
+  },
+  {
+    "id": 26,
+    "title": "Abendessen auf einer Yacht",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "25 × 25",
+    "year": "2023",
+    "hotelPrice": 550,
+    "galleryPrice": 450,
+    "image": "26.webp"
+  },
+  {
+    "id": 27,
+    "title": "Kabbala",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "25 × 25",
+    "year": "2023",
+    "hotelPrice": 550,
+    "galleryPrice": 450,
+    "image": "27.webp"
+  },
+  {
+    "id": 28,
+    "title": "Skizze von Korfu",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "30 × 20",
+    "year": "2023",
+    "hotelPrice": 500,
+    "galleryPrice": 400,
+    "image": "28.webp"
+  },
+  {
+    "id": 29,
+    "title": "Zeit der Besuche",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "100 × 200",
+    "year": "2021",
+    "hotelPrice": 6000,
+    "galleryPrice": 5000,
+    "image": "29.webp"
+  },
+  {
+    "id": 30,
+    "title": "Boote",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "25 × 30",
+    "year": "2023",
+    "hotelPrice": 550,
+    "galleryPrice": 450,
+    "image": "30.webp"
+  },
+  {
+    "id": 31,
+    "title": "Korfu 2",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "20 × 30",
+    "year": "2023",
+    "hotelPrice": 550,
+    "galleryPrice": 400,
+    "image": "31.webp"
+  },
+  {
+    "id": 32,
+    "title": "Sonniges Griechenland",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "30 × 30",
+    "year": "2023",
+    "hotelPrice": 550,
+    "galleryPrice": 350,
+    "image": "32.webp"
+  },
+  {
+    "id": 33,
+    "title": "Reflexionsspiel",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "155 × 60",
+    "year": "2024",
+    "hotelPrice": 3000,
+    "galleryPrice": 2650,
+    "image": "33.webp"
+  },
+  {
+    "id": 34,
+    "title": "Auf dem Pfad",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "25 × 30",
+    "year": "2023",
+    "hotelPrice": 600,
+    "galleryPrice": 500,
+    "image": "34.webp"
+  },
+  {
+    "id": 35,
+    "title": "Gute Reise",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "40 × 40",
+    "year": "2023",
+    "hotelPrice": 800,
+    "galleryPrice": 800,
+    "image": "35.webp"
+  },
+  {
+    "id": 36,
+    "title": "Rogosniza",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "40 × 40",
+    "year": "2023",
+    "hotelPrice": 800,
+    "galleryPrice": 800,
+    "image": "36.webp"
+  },
+  {
+    "id": 37,
+    "title": "Illusion",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "25 × 30",
+    "year": "2023",
+    "hotelPrice": 600,
+    "galleryPrice": 500,
+    "image": "37.webp"
+  },
+  {
+    "id": 38,
+    "title": "Antonin Dvoraks Garten",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "100 × 100",
+    "year": "2023",
+    "hotelPrice": 3000,
+    "galleryPrice": 2700,
+    "image": "38.webp"
+  },
+  {
+    "id": 39,
+    "title": "Rogosniza ll",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "80 × 110",
+    "year": "2023",
+    "hotelPrice": 2500,
+    "galleryPrice": 2280,
+    "image": "39.webp"
+  },
+  {
+    "id": 40,
+    "title": "Korfu",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "60 × 20",
+    "year": "2023",
+    "hotelPrice": 600,
+    "galleryPrice": 500,
+    "image": "40.webp"
+  },
+  {
+    "id": 41,
+    "title": "Spiekeroog",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "20 × 60",
+    "year": "2023",
+    "hotelPrice": 600,
+    "galleryPrice": 500,
+    "image": "41.webp"
+  },
+  {
+    "id": 43,
+    "title": "Ein Platz unter der Sonne",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "100 × 120",
+    "year": "2020",
+    "hotelPrice": 2400,
+    "galleryPrice": 2160,
+    "image": "43.webp"
+  },
+  {
+    "id": 44,
+    "title": "Blumen am Fenster",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "70 × 80",
+    "year": "2017",
+    "hotelPrice": 1000,
+    "galleryPrice": 960,
+    "image": "44.webp"
+  },
+  {
+    "id": 45,
+    "title": "Edelweiß",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "100 × 100",
+    "year": "2019",
+    "hotelPrice": 2400,
+    "galleryPrice": 2100,
+    "image": "45.webp"
+  },
+  {
+    "id": 47,
+    "title": "Vanilla Sunset",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "105 × 105",
+    "year": "2024",
+    "hotelPrice": 3200,
+    "galleryPrice": 2700,
+    "image": "47.webp"
+  },
+  {
+    "id": 48,
+    "title": "Verzaubert",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "150 × 150",
+    "year": "2024",
+    "hotelPrice": 6500,
+    "galleryPrice": 4900,
+    "image": "48.webp"
+  },
+  {
+    "id": 49,
+    "title": "Vertraute, unbekannte Welt",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "100 × 120",
+    "year": "2024",
+    "hotelPrice": 2400,
+    "galleryPrice": 2100,
+    "image": "49.webp"
+  },
+  {
+    "id": 50,
+    "title": "Vom Meer vereint",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "90 × 170",
+    "year": "2024",
+    "hotelPrice": 4700,
+    "galleryPrice": 3960,
+    "image": "50.webp"
+  },
+  {
+    "id": 51,
+    "title": "Akkorde des Lebens",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "100 × 120",
+    "year": "2024",
+    "hotelPrice": 3000,
+    "galleryPrice": 2700,
+    "image": "51.webp"
+  },
+  {
+    "id": 52,
+    "title": "Gegenwart",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "120 × 40",
+    "year": "2026",
+    "hotelPrice": 1500,
+    "galleryPrice": 1450,
+    "image": "52.webp"
+  },
+  {
+    "id": 53,
+    "title": "Barkarolla",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "120 × 40",
+    "year": "2026",
+    "hotelPrice": 1500,
+    "galleryPrice": 1450,
+    "image": "53.webp"
+  },
+  {
+    "id": 54,
+    "title": "Resonanz des Lichts",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "115 × 130",
+    "year": "2026",
+    "hotelPrice": 3800,
+    "galleryPrice": 3180,
+    "image": "54.webp"
+  },
+  {
+    "id": 55,
+    "title": "Mittag in Venedig",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "60 × 80",
+    "year": "2026",
+    "hotelPrice": 1200,
+    "galleryPrice": 1200,
+    "image": "55.webp"
+  },
+  {
+    "id": 56,
+    "title": "Melone und Herbstblumen",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "50 × 70",
+    "year": "2026",
+    "hotelPrice": 800,
+    "galleryPrice": 800,
+    "image": "56.webp"
+  },
+  {
+    "id": 57,
+    "title": "Weintrauben",
+    "technique": "Öl auf Leinwand",
+    "dimensions": "30 × 40",
+    "year": "2026",
+    "hotelPrice": 600,
+    "galleryPrice": 600,
+    "image": "57.webp"
+  }
+]
